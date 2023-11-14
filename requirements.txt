@@ -1,0 +1,13 @@
+annotated-types==0.6.0
+boto3==1.28.84
+botocore==1.31.84
+jmespath==1.0.1
+pydantic==1.10.10
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+redbird==0.7.1
+rocketry==2.5.1
+s3transfer==0.7.0
+six==1.16.0
+typing_extensions==4.8.0
+urllib3==1.26.18
